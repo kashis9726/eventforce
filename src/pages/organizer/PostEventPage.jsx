@@ -260,6 +260,7 @@ const PostEventPage = () => {
                 </div>
             </form>
         </div>
+    </div>
     );
 };
 

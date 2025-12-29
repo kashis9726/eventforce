@@ -162,7 +162,6 @@ const PaymentTrackerPage = () => {
                                 style={{
                                     padding: '0.5rem 1rem',
                                     borderRadius: '8px',
-                                    border: 'none',
                                     background: activeFilter === filter.toLowerCase().replace(' ', '-') ? '#2A9DF4' : 'white',
                                     color: activeFilter === filter.toLowerCase().replace(' ', '-') ? 'white' : '#6B7280',
                                     cursor: 'pointer',

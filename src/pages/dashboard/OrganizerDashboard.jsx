@@ -13,13 +13,6 @@ const OrganizerDashboard = () => {
         navigate('/');
     };
 
-    const stats = {
-        totalEvents: 12,
-        activeEvents: 3,
-        totalWorkers: 45,
-        pendingApps: 20
-    };
-
     return (
         <div style={{ minHeight: '100vh', background: 'linear-gradient(135deg, #E0F2FE 0%, #CCFBF1 100%)' }}>
             {/* Header */}

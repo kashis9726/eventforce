@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { TrendingUp, CheckCircle, Star, DollarSign, Bell, MessageCircle, User as UserIcon, LogOut, Zap, Award, Target } from 'lucide-react';
 import { useUser } from '../../context/UserContext';

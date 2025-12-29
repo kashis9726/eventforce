@@ -13,13 +13,6 @@ const VendorDashboard = () => {
         navigate('/');
     };
 
-    const stats = {
-        totalServices: 2,
-        totalBookings: 20,
-        newRequests: 3,
-        revenue: 245000
-    };
-
     const services = [
         {
             id: 1,
